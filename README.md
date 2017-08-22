@@ -2,6 +2,10 @@
 [![npm](https://img.shields.io/npm/dm/react-native-popup-dialog.svg)]()
 [![npm](https://img.shields.io/npm/v/react-native-popup-dialog.svg)]()
 
+
+**NB**: this is a fork of [react-native-popup-dialog](https://github.com/jacklam718/react-native-popup-dialog)
+
+
 ## React Native Popup Dialog
 React Native Popup Dialog for iOS & Android.
 
@@ -21,9 +25,7 @@ Pull request are welcomed. Please follow [Airbnb JS Style Guide](https://github.
 ## Installation
 
 ```
-npm install --save react-native-popup-dialog
-# OR
-yarn add react-native-popup-dialog
+$ npm install --save https://github.com/MaximusBaton/react-native-popup-dialog.git
 ```
 
 ## Exposed Modules
